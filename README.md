@@ -1,5 +1,5 @@
 # AMPG Banten · Member Database Mobilization Analysis
-**Golkar Youth Wing (AMPG) · Banten Province · 2020–2025**
+**Angkatan Muda Partai Golkar PD I Provinsi Banten 2020-2025** · **Banten Province** · **2020–2025**
 
 ---
 
@@ -9,7 +9,7 @@ This project documents the data collection and organizational mobilization effor
 carried out by PD I AMPG Banten across 8 regencies/cities in preparation for the
 2024 General Election.
 
-The core challenge: Banten started in the **red zone** of national database
+**The core challenge:** Banten started in the **red zone** of national database
 completion rankings. Within **7 days**, the province moved into Cluster 1 and
 reached **#5 nationally** — competing against provinces with significantly larger
 organizational infrastructure.
@@ -24,7 +24,7 @@ organizational infrastructure.
 | 2 | Jawa Timur |
 | 3 | Sumatera Utara |
 | 4 | Jawa Barat |
-| **5** | **Banten ← from Red Zone** |
+| **5** | **Banten ← from Red Zone Number 32 to 5** |
 
 > If Kota Cilegon and Kabupaten Tangerang had reached full completion,
 > Banten would have ranked **#1 nationally**.
@@ -75,10 +75,10 @@ SK count — indicating active recruitment beyond official decree.
 
 ## Methodology
 
-- Cross-referencing SK (official appointment decrees) against submitted member forms
-- Identifying discrepancies where actual participation exceeded official SK count
-- Flagging chapters below PP AMPG minimum threshold (50 members at Kab/Kota level)
-- Coordinating follow-up across all 8 chapters simultaneously within a 7-day window
+- **Cross-referencing SK (official appointment decrees)** against submitted member forms
+- **Identifying discrepancies** where actual participation exceeded official SK count
+- **Flagging chapters** below PP AMPG minimum threshold (50 members at Kab/Kota level)
+- **Coordinating & Communicate follow-up** across all 8 chapters simultaneously within a 7-day window
 
 ---
 
@@ -126,4 +126,4 @@ requires coordinating across bureaucratic, geographic, and organizational layers
 simultaneously — with real electoral consequences tied to completion rates.
 
 This work was conducted by the OKK (Organisasi, Keanggotaan, dan Kaderisasi)
-division of PD I AMPG Provinsi Banten.
+division of PD I AMPG Provinsi Banten Kepengurusan 2020-2025
