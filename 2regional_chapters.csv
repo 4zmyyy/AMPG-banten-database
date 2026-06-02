@@ -1,0 +1,9 @@
+region,type,total_sk,filled,not_filled,completion_rate_pct,rakorda_status,notes
+Kota Tangerang,Kota,41,54,0,131.7,Sudah,SK ada penambahan
+Kota Tangerang Selatan,Kota,136,123,5,96.3,Belum,
+Kota Serang,Kota,64,58,6,90.6,Sudah,
+Kabupaten Tangerang,Kabupaten,65,24,41,36.9,Belum,Bottleneck utama
+Kabupaten Pandeglang,Kabupaten,43,33,10,76.7,Belum,Perlu perubahan SK — minimal 50
+Kabupaten Serang,Kabupaten,21,21,0,100.0,Belum,Kurang kepengurusan — minimal 50
+Kabupaten Lebak,Kabupaten,43,47,3,109.3,Belum,Perubahan SK dan minimal 50
+Kota Cilegon,Kota,70,15,55,21.4,Belum,Bottleneck utama
