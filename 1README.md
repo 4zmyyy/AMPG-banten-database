@@ -51,6 +51,20 @@ organizational infrastructure.
 | Kabupaten Lebak | 43 | 47 | 109.3% ↑ | ❌ Pending |
 | Kota Cilegon | 70 | 15 | 21.4% ⚠️ | ❌ Pending |
 
+## Visualizations
+<img width="1187" height="590" alt="ampg 1" src="https://github.com/user-attachments/assets/66dabe6e-01ee-4050-a553-b1cb76c33128" />
+<img width="1189" height="590" alt="ampg 2" src="https://github.com/user-attachments/assets/cf3199bc-807a-4576-8ab7-60221831f43b" />
+
+
+
+### Completion Rate by Region
+<img width="1187" height="590" alt="ampg 1" src="https://github.com/user-attachments/assets/2eb8c95f-893c-4873-8fef-981784cac03d" />
+
+
+### SK vs Filled — Gap Analysis
+<img width="1189" height="590" alt="ampg 2" src="https://github.com/user-attachments/assets/02a6df95-1249-4e3e-bc67-266028c84869" />
+
+
 **⚠️ Critical bottlenecks:** Kota Cilegon (21.4%) and Kabupaten Tangerang (36.9%)
 were the primary gaps preventing a national #1 ranking.
 
